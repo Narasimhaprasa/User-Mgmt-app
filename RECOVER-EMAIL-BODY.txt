@@ -1,0 +1,12 @@
+Hi FULLNAME , <br/>
+<br/>
+we are successfully get your password.. <br/>
+<br/>
+Please find your temporary password below <br/>
+<br/>
+Temporary Pwd : : TEMP-PWD <br/>
+<br/>
+<a href="URL"> Click here to Unlock your account </a> <br/>
+<br/>
+Thanks , <br/>
+Admin Team. <br/>
